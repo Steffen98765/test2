@@ -1,1 +1,1 @@
-Satz tim zwei Tippfehlern.
+Satz mit zwei Tippfehlern.
